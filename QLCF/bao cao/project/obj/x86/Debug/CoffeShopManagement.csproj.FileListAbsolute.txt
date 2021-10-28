@@ -1,0 +1,81 @@
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Google Drive\HK 2 năm 2\Lập trình Ứng Dụng\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAdAccount.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAddFood.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.Block.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.ChangePersional.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAdCategory.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAdFood.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmAdTables.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmLogin.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmMain.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.frmPay.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.PlusTable.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.ReFood.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.ReplaceTable.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\project.exe.config
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\project.exe
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\project.pdb
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.exe
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Debug\project.pdb
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\bin\Debug\project.exe.config
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.exe
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.pdb
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\bin\Debug\project.exe
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\bin\Debug\project.pdb
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\CoffeShopManagement.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.frmAdAccount.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.frmAddFood.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.Block.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.ChangePersional.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.frmAdCategory.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.frmAdFood.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.frmAdTables.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.frmLogin.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.frmMain.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.frmPay.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.PlusTable.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.ReFood.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\project.ReplaceTable.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\DoAn\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\bin\Debug\project.exe.config
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.exe
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.pdb
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\bin\Debug\project.exe
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\bin\Debug\project.pdb
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\CoffeShopManagement.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.frmAdAccount.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.frmAddFood.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.Block.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.ChangePersional.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.frmAdCategory.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.frmAdFood.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.frmAdTables.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.frmLogin.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.frmMain.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.frmPay.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.PlusTable.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.Properties.Resources.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.ReFood.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\project.ReplaceTable.resources
+C:\Users\Admin\Desktop\QLYCF\QLCF\bao cao\project\obj\x86\Debug\CoffeShopManagement.csproj.GenerateResource.Cache

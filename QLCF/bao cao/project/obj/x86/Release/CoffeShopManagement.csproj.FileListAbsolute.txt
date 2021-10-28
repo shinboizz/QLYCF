@@ -1,0 +1,52 @@
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.exe
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\project.pdb
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\bin\Release\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdAccount.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAddFood.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Block.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ChangePersional.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdCategory.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdFood.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmAdTables.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmLogin.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmMain.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.frmPay.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.PlusTable.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReFood.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.ReplaceTable.resources
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.exe
+C:\Users\Admin\Desktop\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAnNhom_PhamLeMinhPhu_NguyenThiKimHoa\DoAn\project\obj\x86\Release\project.pdb
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\bin\Release\project.exe.config
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\bin\Release\project.exe
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\bin\Release\project.pdb
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\bin\Release\Interop.WMPLib.dll
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\bin\Release\AxInterop.WMPLib.dll
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\Interop.WMPLib.dll
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\AxInterop.WMPLib.dll
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\CoffeShopManagement.csproj.ResolveComReference.cache
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.frmAdAccount.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.frmAddFood.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.Block.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.ChangePersional.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.frmAdCategory.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.frmAdFood.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.frmAdTables.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.frmLogin.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.frmMain.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.frmPay.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.PlusTable.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.Properties.Resources.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.ReFood.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.ReplaceTable.resources
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\CoffeShopManagement.csproj.GenerateResource.cache
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\CoffeShopManagement.csproj.CoreCompileInputs.cache
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.exe
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\project.pdb
+D:\Học Tập\CÔNG NGHỆ LẬP TRÌNH TIÊN TIẾN\QLYCF\QLCF\bao cao\project\obj\x86\Release\CoffeShopManagement.csprojAssemblyReference.cache
